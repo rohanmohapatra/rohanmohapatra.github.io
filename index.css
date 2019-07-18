@@ -284,15 +284,6 @@ body {
    columns:2; /* align section w/ heading above */
 }
 
-.projects a {
-  /* 30px is the gutter size in magic grid */
-  width: calc(
-    49% - 30px
-  ); /* 49% avoids a weird single column on some wide screens */
-  display: flex;
-  text-decoration: none;
-}
-
 .projects section {
   width: 85%;
   padding: 2.5vh 5%;
