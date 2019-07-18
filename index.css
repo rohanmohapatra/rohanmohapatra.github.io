@@ -281,7 +281,7 @@ body {
 }
 
 .projects {
-  margin-left: -15px; /* align section w/ heading above */
+   columns:2; /* align section w/ heading above */
 }
 
 .projects a {
@@ -294,7 +294,7 @@ body {
 }
 
 .projects section {
-  width: 100%;
+  width: 85%;
   padding: 2.5vh 5%;
   display: inline-block;
   border-radius: 5px;
