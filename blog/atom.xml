@@ -9,9 +9,14 @@
     <icon>https://rohanmohapatra.github.com/images/avataaars.png</icon>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
-        <id>hello-world</id>
+        <id>https://rohanmohapatra.github.com/blog/hello-world</id>
         <link href="https://rohanmohapatra.github.com/blog/hello-world"/>
         <updated>2021-06-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Welcome to this blog. This blog is created with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a>.</p><p>This is a test post.</p><p>A whole bunch of other information.</p>]]></content>
+        <author>
+            <name>Rohan Mohapatra</name>
+        </author>
+        <category label="hello-world" term="hello-world"/>
     </entry>
 </feed>
