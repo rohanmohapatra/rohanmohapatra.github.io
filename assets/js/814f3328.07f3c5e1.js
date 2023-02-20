@@ -1,0 +1,1 @@
+(self.webpackChunkrohan_website=self.webpackChunkrohan_website||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World","permalink":"/blog/hello-world"}]}')}}]);
