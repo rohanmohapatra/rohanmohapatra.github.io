@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_portfolio_blog=self.webpackChunk_portfolio_blog||[]).push([[659],{7526:o=>{o.exports=JSON.parse('{"permalink":"/blog/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"My thoughts","blogTitle":"Rohan\'s Blog"}')}}]);
