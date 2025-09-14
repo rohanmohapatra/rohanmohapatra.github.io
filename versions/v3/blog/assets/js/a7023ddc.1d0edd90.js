@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_portfolio_blog=self.webpackChunk_portfolio_blog||[]).push([[267],{8289:l=>{l.exports=JSON.parse('[{"label":"hello-world","permalink":"/blog/tags/hello-world","count":1}]')}}]);

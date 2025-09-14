@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_portfolio_blog=self.webpackChunk_portfolio_blog||[]).push([[267],{6083:o=>{o.exports=JSON.parse('{"permalink":"/versions/v3/blog/tags/hello-world","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"My thoughts","blogTitle":"Rohan\'s Blog"}')}}]);

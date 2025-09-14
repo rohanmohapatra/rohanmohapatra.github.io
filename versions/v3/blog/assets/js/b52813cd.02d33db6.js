@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_portfolio_blog=self.webpackChunk_portfolio_blog||[]).push([[435],{9036:l=>{l.exports=JSON.parse('{"label":"hello-world","permalink":"/versions/v3/blog/tags/hello-world","allTagsPath":"/versions/v3/blog/tags","count":1,"unlisted":false}')}}]);
