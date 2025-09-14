@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrohan_website=self.webpackChunkrohan_website||[]).push([[93],{1942:e=>{e.exports=JSON.parse('{"label":"hello-world","permalink":"/versions/v2/blog/tags/hello-world","allTagsPath":"/versions/v2/blog/tags","count":1}')}}]);

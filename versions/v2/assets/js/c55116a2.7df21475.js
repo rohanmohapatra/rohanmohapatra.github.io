@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrohan_website=self.webpackChunkrohan_website||[]).push([[6],{8664:e=>{e.exports=JSON.parse('{"permalink":"/versions/v2/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
